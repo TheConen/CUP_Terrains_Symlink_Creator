@@ -1,0 +1,3 @@
+Manifest-Version: 1.0
+Main-Class: cup.terrains.CUP_Terrains_SymlinkCreator
+
